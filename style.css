@@ -1,0 +1,9 @@
+#a{
+    border-width:10px;
+    background-color:#FAFAFA;
+    border-style:ridge;
+  }
+  .b{
+    background-image: url("bg1.jpg");
+    background-position: center; background-size: cover;
+  }
